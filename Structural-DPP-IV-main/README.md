@@ -40,7 +40,7 @@ For training the model, you can run `main/train.py` to train the model. The trai
 
 ### Testing
 
-We provide a trained model in `https://drive.google.com/drive/folders/18Kb81AED8_dNEdQ_uQ8jYtyoPmOySd_a?usp=drive_link`. You can download the model and put it in the `./ckpt` directory. Then you can run `main/test.py` to test the model, or use your own data/trained model to see the results.
+We provide a trained model in `https://drive.google.com/drive/folders/18Kb81AED8_dNEdQ_uQ8jYtyoPmOySd_a?usp=drive_link` (mirror: `https://drive.google.com/file/d/15tf0tV4FOnsQlohZwpilmIrtkhhFq5su/view?usp=share_link`). You can download the model and put it in the `./ckpt` directory. Then you can run `main/test.py` to test the model, or use your own data/trained model to see the results.
 
 
 
